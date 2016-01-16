@@ -16,3 +16,7 @@ A demo for [creating ops](https://github.com/imagej/imagej-tutorials/tree/master
 
 A demo for ImgLib2 and its _views_ and specifically the ability to interpolate with a number of different algorithms.
 
+## Bokeh Demos
+
+The Bokeh Demos show creating simple plots (like histograms) in the notebook using bokehjs (bokeh-scala). 
+
